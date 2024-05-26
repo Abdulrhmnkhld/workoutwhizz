@@ -1,2 +1,16 @@
-# workoutwhiz
-My app is a gym app “WorkoutWhiz” has a main idea of a virtual gym partner and coach which gives exercises to the user to perform them as well as lifting similar weights to the user to motivate them. It has an AI that predicts how much you’ll be able to lift and on top of that has workout schedules to choose from for assistance and a cool chatbot.
+# projectattempt
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
